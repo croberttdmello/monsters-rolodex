@@ -1,0 +1,15 @@
+.SearchBox {
+  background-color: #DEE6FF;
+  box-shadow: 1px 4px 4px rgba(20, 24, 36, 1);
+  display: block;
+  margin: 20px auto;
+  padding: 20px 0;
+  border: none;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.SearchBox:hover {
+  box-shadow: 4px 8px 8px rgba(20, 24, 36, 1);
+}

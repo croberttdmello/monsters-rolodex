@@ -1,0 +1,7 @@
+.Card__List {
+  max-width: 85vw;
+  margin: 40px auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, auto));
+  grid-gap: 20px;
+}
