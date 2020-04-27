@@ -13,7 +13,7 @@
 
 ## Demo
 
-<a href="https://croberttdmello.github.io/monsters-rolodex/">Monsters Rolodex Demo</a>
+<a target="_blank" href="https://croberttdmello.github.io/monsters-rolodex/">MONSTERS ROLODEX DEMO</a>
 
 ## 
    <p align="center"><img src="./assets-readme/cover.png" alt="Cover" width="100%"> </p>
