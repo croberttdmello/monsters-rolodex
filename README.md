@@ -11,6 +11,9 @@
   </a>
 </p>
 
+## Demo
+
+<a href="https://croberttdmello.github.io/monsters-rolodex/">Monsters Rolodex Demo</a>
 
 ## 
    <p align="center"><img src="./assets-readme/cover.png" alt="Cover" width="100%"> </p>
