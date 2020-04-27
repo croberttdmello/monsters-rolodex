@@ -15,8 +15,7 @@
 
 <a href="https://croberttdmello.github.io/monsters-rolodex/" target="_blank">MONSTERS ROLODEX DEMO</a>
 
-[MONSTERS ROLODEX DEMO](https://duckduckgo.com "The best search engine for privacy").
-[MONSTERS ROLODEX DEMO](https://croberttdmello.github.io/monsters-rolodex){:target="_blank"}
+[MONSTERS ROLODEX DEMO]("https://croberttdmello.github.io/monsters-rolodex" {:target="_blank"})
 ## 
    <p align="center"><img src="./assets-readme/cover.png" alt="Cover" width="100%"> </p>
 
