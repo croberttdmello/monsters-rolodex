@@ -14,10 +14,8 @@
 ## Demo
 
 <a href="https://croberttdmello.github.io/monsters-rolodex/" target="_blank">MONSTERS ROLODEX DEMO</a>
-[Reference Link With New Tab](https://github.com/fire1ce/3os.org/ "Opens new tab for reference link"){target=_blank}
-[MONSTERS ROLODEX DEMO](https://croberttdmello.github.io/monsters-rolodex)
-## 
-   <p align="center"><img src="./assets-readme/cover.png" alt="Cover" width="100%"> </p>
+
+<p align="center"><img src="./assets-readme/cover.png" alt="Cover" width="100%"> </p>
 
 ## Features
 
