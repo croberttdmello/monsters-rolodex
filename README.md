@@ -17,7 +17,7 @@
 
 <p align="center"><img src="./assets-readme/cover.png" alt="Cover" width="100%"> </p>
 
-## Features
+## Tools
 
   <img src="./assets-readme/react.png" alt="Icon HTML5" width="15"> React
 <br>
