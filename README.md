@@ -22,6 +22,10 @@
   <img src="./assets-readme/react.png" alt="Icon HTML5" width="15"> React
 <br>
 
+## Project status 
+
+<p>Complete!</p>
+
 ## Getting Started
 
 <p>1 - Clone the project with <b>git clone git@github.com:croberttdmello/monsters-rolodex.git</b></p>
